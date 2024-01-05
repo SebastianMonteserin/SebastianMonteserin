@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sebastián</h1>
+<h1 align="center">Hola 👋, me llamo Sebastián</h1>
 <h3 align="center">A passionate developer from Argentina</h3>
 
 - 🌱Actualmente estoy esudianto para ser Analista de Sistemas en **ORT argentina, me resta el último cuatrimestre.**
