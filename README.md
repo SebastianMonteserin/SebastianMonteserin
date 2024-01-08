@@ -7,7 +7,7 @@
 
 - 📫 Puedes contactarme en **sebamonteserin@yahoo.com.ar**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: sebamonteserin@yahoo.com.ar --- https://github.com/SebastianMonteserin </h3>
 <p align="left">
 </p>
 
