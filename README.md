@@ -3,7 +3,7 @@
 
 - 🌱Actualmente estoy esudianto para ser Analista de Sistemas en **ORT argentina, me resta el último cuatrimestre.**
 
-- 💬 Preguntame por **react, Java, C#, HTML, CSS, NodeJs, SQL, MongoDB, JavaScript,.NET,etc**
+- 💬 Preguntame por **React, Java, C#, HTML, CSS, NodeJs, SQL, MongoDB, JavaScript,.NET,etc**
 
 - 📫 Puedes contactarme en **sebamonteserin@yahoo.com.ar**
 
