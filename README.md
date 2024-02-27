@@ -1,7 +1,8 @@
 <h1 align="center">Hola 👋, me llamo Sebastián</h1>
 <h3 align="center">A passionate developer from Argentina</h3>
 
-- 🌱Actualmente estoy estudianto para ser Analista de Sistemas en **ORT argentina, me resta el último cuatrimestre.**
+- 🌱Soy un Analista Programador recibido en **ORT argentina*
+- 🌱Próximo a recibirme de Analista de Sistemas!!!
 
 - 💬 Preguntame por **React, Java, C#, HTML, CSS, NodeJs, SQL, MongoDB, JavaScript,.NET,etc**
 
