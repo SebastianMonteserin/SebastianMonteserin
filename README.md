@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from Argentina</h3>
 
 - 🌱Soy un Analista Programador recibido en **ORT argentina*
-- 🌱Próximo a recibirme de Analista de Sistemas!!!
+- Próximo a recibirme de Analista de Sistemas!!!
 
 - 💬 Preguntame por **React, Java, C#, HTML, CSS, NodeJs, SQL, MongoDB, JavaScript,.NET,etc**
 
