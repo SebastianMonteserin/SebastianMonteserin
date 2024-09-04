@@ -1,10 +1,10 @@
 <h1 align="center">Hola 👋, me llamo Sebastián</h1>
 <h3 align="center">A passionate developer from Argentina</h3>
 
-- 🌱Soy un Analista Programador recibido en **ORT argentina*
-- Próximo a recibirme de Analista de Sistemas!!!
+- 🌱Soy un Analista Programador y Analista de Sistemas recibido en **ORT argentina*
 
-- 💬 Preguntame por **React, Java, C#, HTML, CSS, NodeJs, SQL, MongoDB, JavaScript,.NET,etc**
+
+- 💬 Preguntame por **React, Java, C#, HTML, CSS, NodeJs, SQL, MongoDB, JavaScript,.NET, COBOL, RPG, AS400, IBM i, etc**
 
 - 📫 Puedes contactarme en **sebamonteserin@yahoo.com.ar**
 
