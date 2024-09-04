@@ -4,7 +4,7 @@
 - 🌱Soy un Analista Programador y Analista de Sistemas recibido en **ORT argentina*
 
 
-- 💬 Preguntame por **React, Java, C#, HTML, CSS, NodeJs, SQL, MongoDB, JavaScript,.NET, COBOL, RPG, AS400, IBM i, etc**
+- 💬 Preguntame por **React, Java, C#, HTML, CSS, NodeJs, SQL, MongoDB, JavaScript,.NET, COBOL, RPG, AS400, IBM i.**
 
 - 📫 Puedes contactarme en **sebamonteserin@yahoo.com.ar**
 
