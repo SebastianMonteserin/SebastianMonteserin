@@ -1,16 +1,43 @@
-<h1 align="center">Hola 👋, me llamo Sebastián</h1>
-<h3 align="center">A passionate developer from Argentina</h3>
+## 👋 Sebastián Monteserin Vinciguerra
+### Desarrollador de Software · Analista de Sistemas · IoT
 
-- 🌱Soy un Analista Programador y Analista de Sistemas recibido en **ORT argentina*
-- 🌱Próximo a ser Especialista en Ciencias de Datos.
+💼 Dev & Analista de Sistemas — +10 años en tecnología, gestión y derecho  
+🎓 Máster en IoT Industrial (MuIoT) — Univ. de A Coruña · Becario BEME  
+🏛️ Abogado (UNLaM) · Lic. Ciencia Política UBA (Diploma de Honor)  
+📍 A Coruña, Galicia, España · DNI español · Emigrante gallego retornado  
+📫 sebamonteserin@gmail.com · [GitHub](https://github.com/SebastianMonteserin) · [LinkedIn](https://linkedin.com/in/sebastian-monteserin)
 
-- 💬 Preguntame por **React, Java, C#, HTML, CSS, NodeJs, SQL, MongoDB, JavaScript,.NET, COBOL, RPG, AS400, IBM i, VB.Net.**
+---
 
-- 📫 Puedes contactarme en **sebamonteserin@yahoo.com.ar**
+### 🛠 Stack tecnológico
 
-<h3 align="left">Connect with me: sebamonteserin@yahoo.com.ar --- https://github.com/SebastianMonteserin </h3>
-<p align="left">
-</p>
+![Java](https://img.shields.io/badge/Java-FAEEDA?style=flat&logo=openjdk&logoColor=633806)
+![C#](https://img.shields.io/badge/C%23-EEEDFE?style=flat&logo=dotnet&logoColor=3C3489)
+![.NET](https://img.shields.io/badge/.NET-EEEDFE?style=flat&logo=dotnet&logoColor=3C3489)
+![React](https://img.shields.io/badge/React-E6F1FB?style=flat&logo=react&logoColor=0C447C)
+![JavaScript](https://img.shields.io/badge/JavaScript-FAEEDA?style=flat&logo=javascript&logoColor=633806)
+![Node.js](https://img.shields.io/badge/Node.js-EAF3DE?style=flat&logo=node.js&logoColor=27500A)
+![Python](https://img.shields.io/badge/Python-EAF3DE?style=flat&logo=python&logoColor=27500A)
+![R](https://img.shields.io/badge/R-EAF3DE?style=flat&logo=r&logoColor=27500A)
+![Flutter](https://img.shields.io/badge/Dart%2FFlutter-E6F1FB?style=flat&logo=flutter&logoColor=0C447C)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-FAECE7?style=flat&logo=html5&logoColor=712B13)
+![SQL](https://img.shields.io/badge/SQL%2FDB2-E1F5EE?style=flat&logoColor=085041)
+![MongoDB](https://img.shields.io/badge/MongoDB-EAF3DE?style=flat&logo=mongodb&logoColor=27500A)
+![COBOL](https://img.shields.io/badge/COBOL-F1EFE8?style=flat&logoColor=444441)
+![RPG/RPGLE](https://img.shields.io/badge/RPG%2FRPGLE-F1EFE8?style=flat&logoColor=444441)
+![AS400/IBM i](https://img.shields.io/badge/AS400%2FIBMi-F1EFE8?style=flat&logoColor=444441)
+![VB](https://img.shields.io/badge/Visual_Basic-EEEDFE?style=flat&logo=dotnet&logoColor=3C3489)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+---
+
+### 🌐 IoT / Edge / Cloud
+
+`ESP32` `Arduino` `Raspberry Pi` `MQTT` `OPC-UA` `InfluxDB` `Grafana` `Docker` `AWS Greengrass` `LoRa/LoRaWAN` `BLE` `6LoWPAN`
+
+---
+
+### 🔍 Especialización
+
+`Modernización de sistemas legacy` `Automatización de procesos` `IoT Industrial`  
+`Edge Computing` `Machine Learning` `Bases de datos distribuidas`  
+`Análisis funcional` `Reingeniería de procesos` `Metodologías ágiles`
