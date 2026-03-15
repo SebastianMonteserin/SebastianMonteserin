@@ -36,7 +36,7 @@
 
 ### 🌐 IoT / Edge / Cloud
 
-`ESP32` `Arduino` `Raspberry Pi` `MQTT` `OPC-UA` `InfluxDB` `Grafana` `Docker` `AWS Greengrass` `LoRa/LoRaWAN` `BLE` `6LoWPAN` `Wireshark` `Nmap` `Cisco / Packet Tracer`
+`ESP32` `Arduino` `Raspberry Pi` `MQTT` `OPC-UA` `InfluxDB` `Grafana` `Docker` `AWS Greengrass` `LoRa/LoRaWAN` `BLE` `6LoWPAN` `Wireshark` `Nmap` `Cisco / Packet Tracer` 
 
 ---
 
