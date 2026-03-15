@@ -36,23 +36,8 @@
 
 ### 🌐 IoT / Edge / Cloud
 
-### 🌐 IoT / Edge / Cloud
+`ESP32` `Arduino` `Raspberry Pi` `MQTT` `OPC-UA` `InfluxDB` `Grafana` `Docker` `AWS Greengrass` `LoRa/LoRaWAN` `BLE` `6LoWPAN` `Wireshark` `Nmap` `Cisco / Packet Tracer`
 
-![ESP32](https://img.shields.io/badge/ESP32-E1F5EE?style=flat&logo=espressif&logoColor=085041)
-![Arduino](https://img.shields.io/badge/Arduino-E1F5EE?style=flat&logo=arduino&logoColor=085041)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-FAECE7?style=flat&logo=raspberrypi&logoColor=712B13)
-![MQTT](https://img.shields.io/badge/MQTT-FAEEDA?style=flat&logo=eclipse-mosquitto&logoColor=633806)
-![InfluxDB](https://img.shields.io/badge/InfluxDB-E6F1FB?style=flat&logo=influxdb&logoColor=0C447C)
-![Grafana](https://img.shields.io/badge/Grafana-FAEEDA?style=flat&logo=grafana&logoColor=633806)
-![Docker](https://img.shields.io/badge/Docker-E6F1FB?style=flat&logo=docker&logoColor=0C447C)
-![AWS](https://img.shields.io/badge/AWS_Greengrass-FAEEDA?style=flat&logo=amazonaws&logoColor=633806)
-![LoRa](https://img.shields.io/badge/LoRa%2FLoRaWAN-F1EFE8?style=flat&logoColor=444441)
-![BLE](https://img.shields.io/badge/BLE-EEEDFE?style=flat&logo=bluetooth&logoColor=3C3489)
-![OPC-UA](https://img.shields.io/badge/OPC--UA-F1EFE8?style=flat&logoColor=444441)
-![6LoWPAN](https://img.shields.io/badge/6LoWPAN-F1EFE8?style=flat&logoColor=444441)
-![Wireshark](https://img.shields.io/badge/Wireshark-E6F1FB?style=flat&logo=wireshark&logoColor=0C447C)
-![Nmap](https://img.shields.io/badge/Nmap-FAECE7?style=flat&logoColor=712B13)
-![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-E6F1FB?style=flat&logo=cisco&logoColor=0C447C)
 ---
 
 ### 🔍 Especialización
