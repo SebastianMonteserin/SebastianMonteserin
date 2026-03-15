@@ -1,5 +1,5 @@
 ## 👋 Sebastián Monteserin Vinciguerra
-### Desarrollador de Software · Analista de Sistemas · IoT
+### Desarrollador de Software · Analista de Sistemas · IoT Industrial
 
 💼 Dev & Analista de Sistemas — +10 años en tecnología, gestión y derecho  
 🎓 Máster en IoT Industrial (MuIoT) — Univ. de A Coruña · Becario BEME  
