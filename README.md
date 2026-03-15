@@ -6,13 +6,13 @@
 🏛️ Abogado (UNLaM) · Lic. Ciencia Política UBA (Diploma de Honor)  
 📍 A Coruña, Galicia, España  
 
-<!-- Tecnología -->
+!-- Tecnología --
 <img src="https://img.icons8.com/color/48/code.png" width="40"/>
 
-<!-- Derecho -->
+!-- Derecho --
 <img src="https://img.icons8.com/color/48/scales.png" width="40"/>
 
-<!-- Gestión -->
+!-- Gestión --
 <img src="https://img.icons8.com/color/48/combo-chart.png" width="40"/>
 
 📫 sebamonteserin@gmail.com · [GitHub](https://github.com/SebastianMonteserin) · [LinkedIn](https://linkedin.com/in/sebastian-monteserin)
