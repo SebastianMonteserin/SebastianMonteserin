@@ -4,7 +4,7 @@
 💼 Dev & Analista de Sistemas — +10 años en tecnología, gestión y derecho  
 🎓 Máster en IoT Industrial (MuIoT) — Univ. de A Coruña · Becario BEME  
 🏛️ Abogado (UNLaM) · Lic. Ciencia Política UBA (Diploma de Honor)  
-📍 A Coruña, Galicia, España  
+📍 Actualmente en A Coruña, Galicia, España  
 📫 sebamonteserin@gmail.com · [GitHub](https://github.com/SebastianMonteserin) · [LinkedIn](https://linkedin.com/in/sebastian-monteserin)
 
 ---
